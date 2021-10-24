@@ -1,0 +1,37 @@
+html,
+body {
+    text-align: center;
+    width: 350px;
+}
+
+img {
+    width: 54px;
+    padding: 5px;
+
+}
+
+a {
+    text-decoration: none;
+}
+
+.bi {
+    padding: 15px;
+    font-size: 45px;
+    color: #000;
+}
+
+.bi-youtube:hover {
+    color: red;
+}
+
+.bi-facebook:hover {
+    color: blue;
+}
+
+.bi-twitter:hover {
+    color: blue;
+}
+
+.bi-github:hover {
+    color: orange;
+}
